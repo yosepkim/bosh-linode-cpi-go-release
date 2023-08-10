@@ -1,0 +1,8 @@
+config/dev.yml
+config/dev.json
+out
+tmp
+.DS_Store
+*.swp
+*~
+*#
